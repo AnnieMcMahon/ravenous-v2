@@ -20,4 +20,5 @@ Build a restaurant recommendation website that allows users to search for local 
 * Users can click on the picture to access the Yelp page
 
 ## Links
-Web page: [https://ravenous-api-annie.netlify.app/](https://ravenous-api-annie.netlify.app/)
+Web page: [ravenous-v2.vercel.app
+](ravenous-v2.vercel.app)
